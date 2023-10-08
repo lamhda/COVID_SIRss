@@ -1,5 +1,13 @@
 # COVID_SIRss
-Materials for the global analysis of COVID epidemics SIRss model
+Materials for the global analysis of COVID epidemics SIRss model. 
+
+### Introduction
+
+The dynamics of epidemics hinge on the evolving behavior of individuals during an outbreak. In the initial stages, when awareness about the virus is low, people may not take preventive measures seriously. However, as alarms are raised and the outbreak intensifies, adherence to restrictions tends to increase, potentially curbing the spread of the epidemic. As time progresses, a phenomenon of fatigue and frustration with restrictions may set in, leading some individuals to discontinue compliance, especially if there's a decline in new cases. Following a period of respite, individuals may resume adhering to restrictions, yet this interval can expose them to the risk of a more potent second wave emerging during the pause. Notably, traditional SIR models often fail to predict the swift exit from the initial epidemic wave, emphasizing the importance of considering social dynamics. The emergence of a second wave is also intricately tied to social factors.
+
+[Our published study](https://doi.org/10.1038/s41598-021-01317-z) delved into social stress through the lens of sociophysics. By amalgamating a dynamic SIR-type model with the classical triad of the general adaptation syndrome—alarm, resistance, exhaustion—we achieved a highly accurate depiction of the available statistical data.
+
+In a subsequent study, a global analysis of statistical data encompassing 169 countries was conducted. Employing clustering and elastic maps for data dimensionality reduction, we scrutinized the distribution of parameters within the modified SIR model for these countries. This approach revealed a finite number of patterns characterizing the development of the COVID-19 pandemic. Armed with the understanding of these scenarios and their geographical correlations, local authorities can optimize their strategies for effectively combating epidemics until vaccines are developed.
 
 ### Cluster analysis of the parameters of SIRss COVID-19 epidemics model for 169 countries
 
@@ -10,3 +18,7 @@ Materials for the global analysis of COVID epidemics SIRss model
 4. Visualizing results of elastic map method application on top of the geographical map
 5. Performing clustering analysis of parameter distributions, using K-Means, DBScan, hierarchical ans spectral clustering, and applying clustering quality criteria
 6. Visualizing clustering results on top of the geographical map
+
+### References
+
+Kastalskiy, I.A., Pankratova, E.V., Mirkes, E.M. et al. Social stress drives the multi-wave dynamics of COVID-19 outbreaks. Sci Rep 11, 22497 (2021). [https://doi.org/10.1038/s41598-021-01317-z]
