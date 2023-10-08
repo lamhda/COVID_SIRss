@@ -1,0 +1,170 @@
+Region	Population	Ndays	Country	GDP_per_capita_PPP	a	K2	q	Io	R2
+Asia excl. Middle East	38928341	250	Afghanistan	2078.6	0.1791	5.30	1440	1.65	0.99868
+Eastern Europe	2877800	100	Albania	13439.7	0.2117	20.61	22295	5.36	0.99311
+North Africa & Middle East	43851043	275	Algeria	11324.2	0.1311	20.22	1328	2.85	0.98869
+Africa excl. North	32866268	325	Angola	6445.4	0.1333	7.63	4025	1.18	0.99735
+Central & South America USA	45195777	300	Argentina	20770.7	0.1283	9.45	0.95	21.4	0.99953
+Eastern Europe	2963234	200	Armenia	13312.1	0.1509	8.97	6.09	30	0.99934
+Western Europe & British Cmlth	25499881	175	Australia	53329.8	0.2858	7.24	24161	0.01	0.97934
+Western Europe & British Cmlth	9006400	200	Austria	55683.8	0.2942	5.25	460.6	21	0.99496
+Eastern Europe	10139175	225	Azerbaijan	14479.7	0.1503	7.46	91.6	3.25	0.99866
+Central & South America USA	393248	350	Bahamas	32538.6	0.1441	5.99	3.36	21.7	0.99600
+North Africa & Middle East	1701583	200	Bahrain	43755.9	0.1443	21.23	2.21	35.6	0.99973
+Asia excl. Middle East	164689383	250	Bangladesh	5138.7	0.1394	10.89	330.6	11.5	0.99943
+Eastern Europe	9449321	250	Belarus	20239.2	0.1838	7.45	31.3	10.2	0.99566
+Western Europe & British Cmlth	11589616	200	Belgium	53035	0.2153	7.10	58	36	0.99701
+Central & South America USA	397621	100	Belize	6457.6	0.1838	30.11	76.1	284	0.99849
+Africa excl. North	12123198	250	Benin	3505.4	0.1486	7.79	35813	3.05	0.99272
+Central & South America USA	11673029	300	Bolivia	8275.5	0.1508	7.23	10.6	10.5	0.99300
+Eastern Europe	3280815	100	Bosnia and Herzegovina	15623.1	0.1852	17.08	2974	13.9	0.99588
+Africa excl. North	2351625	275	Botswana	15458.5	0.1260	12.35	21.5	3.43	0.99745
+Central & South America USA	212559409	300	Brazil	14835.4	0.1371	15.36	3.21	36.6	0.99911
+Eastern Europe	6948445	200	Bulgaria	24613.8	0.1282	8.74	115	11.8	0.99612
+Africa excl. North	20903278	200	Burkina Faso	2274	0.2193	7.71	886930	1.1	0.98783
+Africa excl. North	11890781	200	Burundi	771.2	0.1472	8.73	802190	0.25	0.99332
+Africa excl. North	26545864	300	Cameroon	3867.5	0.1451	6.55	2369	5.29	0.99858
+Western Europe & British Cmlth	37742157	200	Canada	46611.3	0.1696	8.19	175.8	32.4	0.99907
+Africa excl. North	555988	300	Cape Verde	6376.6	0.1189	11.74	2.31	133	0.99839
+Africa excl. North	4829764	375	Central African Republic	987.6	0.1897	3.23	1258	1.41	0.99656
+Africa excl. North	16425859	200	Chad	1602.4	0.2422	5.97	495020	0.14	0.99672
+Central & South America USA	19116209	200	Chile	25110.2	0.1646	10.05	3.77	22.6	0.99991
+Asia excl. Middle East	1439323774	200	China	17210.8	0.2902	2.67	378370	1	0.99460
+Central & South America USA	50882884	300	Colombia	14931	0.1451	20.84	5.84	5.72	0.99971
+Africa excl. North	869595	200	Comoros	3153.1	0.1555	8.59	5493	16.6	0.99606
+Africa excl. North	5518092	250	Congo	3622.3	0.1403	6.28	1437	4.28	0.99486
+Central & South America USA	5094114	300	Costa Rica	22132.5	0.1340	22.51	2.64	10.2	0.99973
+Africa excl. North	26378275	300	Cote d'Ivoire	5465.5	0.1511	5.45	2428	1.56	0.99764
+Western Europe & British Cmlth	4105268	125	Croatia	28841.7	0.2634	7.64	5814	2.45	0.98218
+Central & South America USA	11326616	150	Cuba	9478	0.2109	8.46	42320	2.65	0.99399
+Eastern Europe	875899	150	Cyprus	39452.9	0.2446	6.01	1255	17.7	0.99529
+Eastern Europe	10708982	150	Czechia	41604	0.2299	9.96	2491	23.6	0.99899
+Africa excl. North	89561404	300	Democratic Republic of Congo	1141.8	0.1839	6.68	128920	0.04	0.99310
+Western Europe & British Cmlth	5792203	150	Denmark	60229.9	0.1717	6.64	267	67.2	0.99894
+North Africa & Middle East	988002	400	Djibouti	5781.8	0.2261	3.25	43	1.37	0.97396
+Central & South America USA	10847904	300	Dominican Republic	17935.7	0.1356	12.65	14	29.7	0.99769
+Central & South America USA	17643060	300	Ecuador	10895.8	0.1122	24.55	14.6	162	0.99775
+North Africa & Middle East	102334403	300	Egypt	12607	0.1703	5.88	1495	50	0.99700
+Central & South America USA	6486201	300	El Salvador	8420.5	0.1504	11.09	75.5	6.17	0.99891
+Africa excl. North	1402985	400	Equatorial Guinea	17940.5	0.1543	4.67	105.8	5.96	0.98308
+Eastern Europe	1326539	200	Estonia	37600.6	0.2258	5.79	715	20.5	0.99692
+Africa excl. North	1160164	250	Eswatini	8865.7	0.1427	4.99	45.3	6.75	0.99932
+Africa excl. North	114963583	300	Ethiopia	2422.8	0.1420	9.76	1785	0.66	0.99941
+Western Europe & British Cmlth	5540718	200	Finland	50506.3	0.1836	6.26	819.1	28.3	0.99401
+Western Europe & British Cmlth	68147687	200	France	46983	0.3138	5.43	213.5	0.36	0.98727
+Africa excl. North	2225728	300	Gabon	15106.4	0.1491	5.02	85.2	49.9	0.99180
+Africa excl. North	2416664	200	Gambia	2275.1	0.2112	4.11	538.4	34.4	0.99684
+Eastern Europe	3989175	300	Georgia	14767	0.1634	6.75	0.29	4.54	0.99913
+Western Europe & British Cmlth	83783945	200	Germany	54792.1	0.2190	6.06	292.7	18	0.99898
+Africa excl. North	31072945	300	Ghana	5744.4	0.1416	4.87	515.5	4.53	0.99564
+Eastern Europe	10423056	375	Greece	27909.5	0.1536	14.33	8.38	0.01	0.99458
+Central & South America USA	17915567	300	Guatemala	8853.7	0.1384	11.41	48.2	15.4	0.99960
+Africa excl. North	13132792	350	Guinea	2817.3	0.1170	7.22	1260	20.1	0.99666
+Africa excl. North	1967998	350	Guinea-Bissau	1948.8	0.1574	4.70	1054	16.1	0.98506
+Central & South America USA	786559	300	Guyana	19704.6	0.1359	15.51	31.7	8.84	0.99902
+Central & South America USA	11402533	300	Haiti	3095.2	0.1652	5.13	2332	15.7	0.99737
+Central & South America USA	9904608	300	Honduras	5420.2	0.1318	14.30	19.6	27.4	0.99831
+Eastern Europe	9660350	150	Hungary	33077.2	0.1838	6.69	7156	12.7	0.99788
+Western Europe & British Cmlth	341250	200	Iceland	53622.2	0.2899	4.04	50.2	34.3	0.99078
+Asia excl. Middle East	1380004385	400	India	6503.9	0.1346	6.76	27	2.64	0.99730
+Asia excl. Middle East	273523621	250	Indonesia	12072.7	0.1205	13.75	234.5	4.9	0.99950
+North Africa & Middle East	83992953	100	Iran	13338	0.2096	20.36	1322	11.5	0.99910
+North Africa & Middle East	40222503	300	Iraq	9506.7	0.1277	7.75	6.18	14.6	0.99906
+Western Europe & British Cmlth	4937796	200	Ireland	93180.9	0.2455	5.25	56.3	26.4	0.99496
+North Africa & Middle East	8655541	100	Israel	39481.6	0.2473	7.85	397.8	34.8	0.99311
+Western Europe & British Cmlth	60461828	200	Italy	41828.6	0.1929	5.22	87.1	38.4	0.99713
+Central & South America USA	2961161	300	Jamaica	9241.6	0.1435	14.44	124.1	0.83	0.99603
+Asia excl. Middle East	126476458	150	Japan	42390.4	0.2434	8.59	94603	0.05	0.99223
+North Africa & Middle East	10203140	350	Jordan	10355	0.1505	9.73	1.27	0.05	0.99741
+Asia excl. Middle East	18776707	250	Kazakhstan	26754.4	0.1613	7.15	24.4	2.35	0.99669
+Africa excl. North	53771300	225	Kenya	4577.9	0.1659	16.81	4235	0.15	0.99023
+Eastern Europe	1932774	225	Kosovo	11387.6	0.1534	15.91	28.7	4.76	0.98948
+North Africa & Middle East	4270563	200	Kuwait	47307	0.1534	19.87	7.67	44.5	0.99877
+Asia excl. Middle East	6524191	200	Kyrgyzstan	4964.7	0.1961	3.97	23.9	0.09	0.99481
+Eastern Europe	1886202	200	Latvia	31464.5	0.1789	7.00	3877	24.2	0.99674
+North Africa & Middle East	6825442	300	Lebanon	12118.6	0.1332	36.40	3.65	1.49	0.99976
+Africa excl. North	2142252	175	Lesotho	2444.1	0.1241	3.13	807.8	30.5	0.99264
+Africa excl. North	5057677	250	Liberia	1468.4	0.1541	6.58	19850	2.81	0.98779
+North Africa & Middle East	6871287	200	Libya	10846.3	0.1369	23.25	10.9	18.5	0.99921
+Western Europe & British Cmlth	38137	200	Liechtenstein	180367	0.3312	3.78	323.9	19.2	0.98232
+Eastern Europe	2722291	200	Lithuania	38883.1	0.2900	5.92	4565	5.1	0.98548
+Western Europe & British Cmlth	625976	150	Luxembourg	117500.2	0.3324	5.84	46.9	87.9	0.98762
+Africa excl. North	27691019	350	Madagascar	1544.2	0.1635	4.71	3576	0.29	0.99745
+Africa excl. North	19129955	225	Malawi	1591.6	0.1594	2.96	11594	3.45	0.99601
+Asia excl. Middle East	32365998	200	Malaysia	27923.7	0.1592	5.99	17212	11.8	0.99366
+Asia excl. Middle East	540542	150	Maldives	13443.5	0.2465	15.16	155.2	0.5	0.99219
+Africa excl. North	20250834	250	Mali	2348	0.1606	8.70	92120	0.95	0.99465
+Western Europe & British Cmlth	441539	125	Malta	41740.8	0.1750	7.88	634.6	63.5	0.99046
+North Africa & Middle East	4649660	200	Mauritania	5390.1	0.1864	5.72	574.7	24.2	0.99837
+Africa excl. North	1271767	200	Mauritius	20530.5	0.3217	3.17	19380	9.74	0.98397
+Central & South America USA	128932753	300	Mexico	18444.1	0.1429	21.86	85.4	8.54	0.99834
+Eastern Europe	4033963	100	Moldova	13000.4	0.1940	36.45	900.6	15.3	0.99927
+Western Europe & British Cmlth	39244	200	Monaco	173688	0.2618	5.60	230.4	11.8	0.98072
+Asia excl. Middle East	3278292	225	Mongolia	12366.9	0.1511	5.83	160650	0.75	0.98627
+Eastern Europe	628062	100	Montenegro	20029.9	0.3057	5.16	5350	18.6	0.95639
+North Africa & Middle East	36910558	100	Morocco	7369.5	0.2001	19.05	42689	3.44	0.99223
+Africa excl. North	31255435	250	Mozambique	1297.4	0.1320	21.28	6762	1.09	0.99457
+Asia excl. Middle East	54409794	300	Myanmar	5123.8	0.1414	7.39	198.7	0.11	0.99797
+Africa excl. North	2540916	175	Namibia	9298.1	0.1633	9.71	58.1	34.1	0.99640
+Asia excl. Middle East	29136808	100	Nepal	4008.5	0.2101	16.56	3939	2.26	0.99651
+Western Europe & British Cmlth	17134873	200	Netherlands	59268.1	0.2411	6.75	213.3	12.8	0.99475
+Western Europe & British Cmlth	4822233	175	New Zealand	44491.3	0.3273	3.70	15023	5.95	0.99190
+Central & South America USA	6624554	350	Nicaragua	5569.7	0.1185	4.29	1039	50.7	0.99895
+Africa excl. North	24206636	250	Niger	1288.3	0.1690	5.05	548050	3.29	0.98097
+Africa excl. North	206139587	275	Nigeria	5186.4	0.1444	8.10	18716	0.95	0.99672
+Eastern Europe	2083380	200	North Macedonia	16959.7	0.1307	20.89	26.6	43.4	0.99804
+Western Europe & British Cmlth	5421242	200	Norway	62644.8	0.2287	5.62	586.5	38.6	0.99767
+North Africa & Middle East	5106622	200	Oman	31120.3	0.1561	7.42	4.05	21.1	0.99694
+Asia excl. Middle East	220892331	250	Pakistan	4812.9	0.1645	5.92	735.3	1.22	0.99834
+North Africa & Middle East	5101416	150	Palestine	5689.9	0.1803	35.41	193.7	0.19	0.99803
+Central & South America USA	4314768	250	Panama	26782.5	0.1336	17.49	2.34	78	0.99950
+Asia excl. Middle East	8947027	200	Papua New Guinea	4286.6	0.2156	6.98	381740	0.09	0.99689
+Central & South America USA	7132530	300	Paraguay	13069.2	0.1434	24.20	18.1	1.55	0.99978
+Central & South America USA	32971846	150	Peru	11878.5	0.1686	25.14	22.2	23.1	0.99908
+Asia excl. Middle East	109581085	350	Philippines	8389.8	0.1354	8.98	98.7	2.05	0.99976
+Eastern Europe	37846605	350	Poland	34240.2	0.1523	9.32	0.88	0.03	0.99782
+Western Europe & British Cmlth	10196707	200	Portugal	34149	0.1491	13.15	91.5	166	0.99387
+North Africa & Middle East	2881060	400	Qatar	89968.8	0.1512	5.23	0.68	155	0.99925
+Eastern Europe	19237682	200	Romania	32116.5	0.1905	20.05	1598	14.5	0.98883
+Eastern Europe	145934460	200	Russia	29812.2	0.1495	13.45	47.5	35.9	0.99878
+Africa excl. North	12952209	275	Rwanda	2213.8	0.1413	13.87	11529	0.56	0.98250
+Central & South America USA	183629	100	Saint Lucia	12709.8	0.3195	13.05	1477	12	0.96996
+Western Europe & British Cmlth	33938	250	San Marino	63420.3	0.1950	5.05	3.31	287	0.96822
+Africa excl. North	219161	300	Sao Tome and Principe	4273.8	0.1841	4.77	80.1	130	0.97995
+North Africa & Middle East	34813867	400	Saudi Arabia	46759.7	0.1408	3.62	12.4	33.7	0.99962
+Africa excl. North	16743930	300	Senegal	3502.8	0.1365	8.45	1985	5.52	0.98887
+Eastern Europe	6804596	150	Serbia	19107.2	0.2572	11.03	716.5	12.5	0.99464
+Africa excl. North	7976985	300	Sierra Leone	1727.1	0.1575	6.12	20926	3.07	0.98851
+Asia excl. Middle East	5850343	150	Singapore	98520	0.1811	10.93	28.3	11.5	0.99826
+Eastern Europe	5459643	150	Slovakia	31356.5	0.1683	28.35	3.75	6.95	0.99798
+Western Europe & British Cmlth	2078932	150	Slovenia	39768.6	0.2588	6.80	3235	15.2	0.98633
+Africa excl. North	15893219	200	Somalia	1245.7	0.1646	6.21	31595	4.05	0.99505
+Africa excl. North	59308690	300	South Africa	13360.6	0.1899	7.45	12.7	0.15	0.99450
+Asia excl. Middle East	51269183	200	South Korea	45274.5	0.2488	5.45	29345	12.6	0.98921
+Africa excl. North	11193729	250	South Sudan	1234.7	0.1715	5.72	25638	4.74	0.99413
+Western Europe & British Cmlth	46754783	200	Spain	37765.8	0.3770	4.56	75.4	1.17	0.98844
+Asia excl. Middle East	21413250	200	Sri Lanka	13224.6	0.1383	8.74	70877	1.55	0.99275
+North Africa & Middle East	43849269	225	Sudan	4142.4	0.1622	6.59	16574	4.59	0.99049
+Central & South America USA	586634	225	Suriname	16734.7	0.1735	7.27	20	31.8	0.98640
+Western Europe & British Cmlth	10099270	225	Sweden	55037.7	0.1327	6.54	16.3	96.4	0.99535
+Western Europe & British Cmlth	8654618	200	Switzerland	71742.5	0.2531	5.35	114.1	44.7	0.99663
+North Africa & Middle East	17500657	200	Syria	1334.4	0.1571	22.68	26890	0.45	0.99890
+Asia excl. Middle East	23816775	300	Taiwan	55724	0.2281	3.92	3602440	0.01	0.99495
+Asia excl. Middle East	9537642	225	Tajikistan	3858.2	0.1337	10.04	1331	64.5	0.99560
+Asia excl. Middle East	69799978	250	Thailand	18232.8	0.2149	4.07	555808	3.04	0.99312
+Asia excl. Middle East	1318442	300	Timor	4141.3	0.3261	2.82	3693710	0.05	0.96226
+Africa excl. North	8278737	300	Togo	2223.5	0.1087	16.01	2025	4.2	0.99853
+Central & South America USA	1399491	400	Trinidad and Tobago	25023.7	0.1545	5.58	56.4	0.08	0.99775
+North Africa & Middle East	11818618	150	Tunisia	10822.8	0.2631	6.92	201180	1.38	0.99442
+Eastern Europe	84339067	200	Turkey	27235.4	0.1640	9.87	259	75.5	0.99703
+Africa excl. North	45741000	150	Uganda	2294.3	0.1503	25.59	2931510	0.15	0.98450
+Eastern Europe	43733759	400	Ukraine	13054.8	0.1297	21.10	2.17	4.5	0.99503
+North Africa & Middle East	9890400	200	United Arab Emirates	66771.5	0.1642	13.33	55.9	33.1	0.99759
+Western Europe & British Cmlth	67886004	200	United Kingdom	46482.9	0.1798	7.27	83.7	28.5	0.99828
+Central & South America USA	331002647	150	United States	63593.4	0.2065	19.23	85.2	19.2	0.99899
+Central & South America USA	3473727	150	Uruguay	22793.7	0.1745	12.55	25850	30.6	0.99365
+Asia excl. Middle East	33469199	300	Uzbekistan	7734	0.1301	4.88	252	4.48	0.99898
+Central & South America USA	28435943	300	Venezuela	17527.7	0.1391	8.26	110.3	1.49	0.99986
+Asia excl. Middle East	97338583	150	Vietnam	8650.1	0.1670	6.01	107694890	0.05	0.98301
+North Africa & Middle East	29825968	300	Yemen	3688.5	0.1512	2.62	232270	1.15	0.99858
+Africa excl. North	18383956	250	Zambia	3457.6	0.1559	7.76	1876	0.91	0.99627
+Africa excl. North	14862927	200	Zimbabwe	3537.4	0.1821	8.66	5584	0.8	0.99481
