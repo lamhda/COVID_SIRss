@@ -1,4 +1,5 @@
-# COVID_SIRss
+# Modeling virus epidemics taking into account the factor of social stress (COVID-19 SIR-ss model)
+
 Materials for the global analysis of COVID epidemics SIRss model. 
 
 ### Introduction
