@@ -10,6 +10,12 @@ The dynamics of epidemics hinge on the evolving behavior of individuals during a
 
 In a subsequent study, a global analysis of statistical data encompassing 169 countries was conducted. Employing clustering and elastic maps for data dimensionality reduction, we scrutinized the distribution of parameters within the modified SIR model for these countries. This approach revealed a finite number of patterns characterizing the development of the COVID-19 pandemic. Armed with the understanding of these scenarios and their geographical correlations, local authorities can optimize their strategies for effectively combating epidemics until vaccines are developed.
 
+### Global computation of parameters of SIRss COVID-19 epidemics model for 169 countries
+
+Matlab code for the global computation of parameters of SIRss COVID-19 epidemics model for 169 countries can be found [here](https://github.com/lamhda/COVID_SIRss/blob/main/src/SIR_coeffs_to_2x169graphs.m).
+The computations have been made based on [the datafile](https://github.com/lamhda/COVID_SIRss/blob/main/data/raw/owid-covid-data-10.05.2021.xlsx) obtained from [here](https://github.com/owid/covid-19-data/tree/master/public/data), accessed on 10.05.2021. 
+The current version of the file can be downloaded [here](https://covid.ourworldindata.org/data/owid-covid-data.xlsx).
+
 ### Cluster analysis of the parameters of SIRss COVID-19 epidemics model for 169 countries
 
 [This notebook](https://github.com/lamhda/COVID_SIRss/blob/main/COVID_geographical_var4.ipynb) contains the code for 
