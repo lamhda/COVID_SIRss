@@ -1,0 +1,166 @@
+Country	Kmeans_eucl_6	Kmeans_eucl_7	Kmeans_eucl_8	Kmeans_eucl_9
+Burkina Faso	0	0	4	7
+Burundi	0	0	4	7
+Thailand	0	0	4	7
+Niger	0	0	4	7
+Chad	0	0	4	7
+Papua New Guinea	0	0	4	7
+China	3	5	3	4
+Yemen	0	0	4	7
+Tunisia	3	5	3	4
+Mongolia	0	0	4	7
+Democratic Republic of Congo	0	0	4	7
+Japan	3	5	3	4
+Mali	0	0	4	7
+Sri Lanka	0	0	4	7
+Morocco	5	1	2	2
+Cuba	0	0	4	7
+Benin	0	0	4	7
+Somalia	0	0	4	7
+South Korea	3	5	3	4
+Syria	5	1	2	2
+Uruguay	0	0	4	7
+South Sudan	0	0	4	7
+Australia	3	5	3	4
+Albania	5	1	2	2
+Slovakia	3	5	3	4
+Sierra Leone	0	0	4	7
+Liberia	0	0	4	7
+Mauritius	3	5	3	4
+Nigeria	0	0	4	7
+Malaysia	0	0	4	7
+Sudan	0	0	4	7
+New Zealand	3	5	3	4
+Malawi	0	0	4	7
+Rwanda	0	0	4	7
+Hungary	3	0	4	7
+Mozambique	5	1	2	5
+Croatia	3	5	3	4
+Zimbabwe	0	0	4	7
+Comoros	0	0	4	7
+Montenegro	3	5	3	4
+Lithuania	3	5	3	4
+Kenya	5	1	2	7
+Angola	0	3	1	0
+Nepal	5	1	2	2
+Latvia	0	0	4	7
+Madagascar	0	3	1	0
+Slovenia	3	5	3	4
+Bosnia and Herzegovina	5	1	2	2
+Czechia	3	5	3	4
+Cote d'Ivoire	0	0	1	0
+Cameroon	0	3	1	0
+Haiti	0	0	1	0
+Togo	1	3	1	5
+Senegal	0	3	1	0
+Zambia	0	0	4	7
+Ethiopia	0	3	1	0
+Romania	5	1	2	2
+Egypt	0	3	1	0
+Saint Lucia	3	5	3	4
+Afghanistan	0	0	4	7
+Congo	0	0	4	7
+Tajikistan	0	0	4	7
+Algeria	5	1	7	5
+Iran	5	1	2	2
+Guinea	1	3	1	0
+Central African Republic	1	3	1	0
+Cyprus	3	5	3	4
+Guinea-Bissau	1	3	1	0
+Nicaragua	1	3	1	0
+Moldova	5	1	2	2
+Finland	3	2	6	1
+Lesotho	0	0	4	7
+Pakistan	0	0	4	7
+Serbia	3	5	3	4
+Estonia	3	2	6	1
+Malta	3	2	6	1
+Norway	3	2	6	1
+Mauritania	0	0	4	7
+Gambia	0	0	4	7
+Ghana	1	3	1	0
+Austria	3	5	3	4
+Israel	3	5	3	4
+Bangladesh	1	3	1	6
+Liechtenstein	2	4	5	8
+Germany	3	2	6	1
+Denmark	3	2	6	1
+Turkey	5	2	6	1
+Uzbekistan	1	3	1	0
+Monaco	2	4	5	8
+Indonesia	5	1	7	5
+France	3	5	3	4
+Netherlands	3	2	6	1
+Myanmar	1	3	1	0
+Palestine	5	1	2	2
+Canada	3	2	6	1
+Maldives	3	5	2	2
+Jamaica	1	3	1	5
+Bulgaria	1	2	6	6
+Switzerland	3	2	6	1
+Venezuela	1	3	1	6
+Equatorial Guinea	1	3	1	0
+Philippines	1	3	1	0
+Azerbaijan	1	3	1	6
+Portugal	4	6	0	3
+Italy	3	2	6	1
+Mexico	5	1	7	5
+Gabon	1	3	1	6
+United States	5	2	6	1
+United Kingdom	3	2	6	1
+Sao Tome and Principe	4	6	0	3
+Belize	4	6	0	3
+El Salvador	1	3	1	6
+Spain	3	5	3	4
+Namibia	5	2	6	6
+Belgium	3	2	6	1
+Trinidad and Tobago	1	3	1	0
+Ireland	2	2	6	1
+United Arab Emirates	5	2	6	1
+Iceland	3	5	3	4
+Guatemala	1	3	1	6
+Russia	5	2	6	6
+Luxembourg	2	4	5	8
+Eswatini	1	3	1	6
+Djibouti	1	3	1	0
+Guyana	1	3	7	5
+Belarus	1	3	1	6
+Kosovo	5	1	7	5
+Singapore	2	2	6	1
+India	1	3	1	0
+North Macedonia	5	1	7	5
+Kazakhstan	1	3	1	6
+Kyrgyzstan	1	2	6	6
+Peru	5	1	2	2
+Botswana	1	3	1	6
+Suriname	1	2	6	6
+Honduras	1	3	7	5
+Paraguay	5	1	7	5
+Sweden	4	2	6	1
+Ecuador	4	6	0	3
+Dominican Republic	1	3	1	6
+South Africa	1	3	1	6
+Saudi Arabia	1	3	1	0
+Libya	5	1	7	5
+Bolivia	1	3	1	6
+Greece	1	3	1	5
+Kuwait	5	1	7	5
+Iraq	1	3	1	6
+Armenia	1	2	6	6
+Colombia	5	1	7	5
+Oman	1	2	6	6
+Chile	1	2	6	6
+Lebanon	5	1	7	5
+Bahamas	1	3	1	6
+San Marino	4	6	0	3
+Brazil	1	3	7	5
+Costa Rica	5	1	7	5
+Panama	5	1	7	5
+Cape Verde	4	6	0	3
+Bahrain	5	1	7	5
+Ukraine	1	3	7	5
+Jordan	1	3	1	6
+Argentina	1	3	1	6
+Poland	1	3	1	6
+Qatar	4	6	0	3
+Georgia	1	3	1	6
