@@ -12,7 +12,8 @@ In a subsequent study, a global analysis of statistical data encompassing 169 co
 
 ### Global computation of parameters of SIRss COVID-19 epidemics model for 169 countries
 
-Matlab code for the global computation of parameters of SIRss COVID-19 epidemics model for 169 countries can be found [here](https://github.com/lamhda/COVID_SIRss/blob/main/src/SIR_coeffs_to_2x169graphs.m).
+Matlab code for the global computation of parameters of SIRss COVID-19 epidemics model for 169 countries can be found [here](https://github.com/lamhda/COVID_SIRss/blob/main/src/SIR_coeffs_to_2x169graphs.m). The resulting parameter table is [here](https://github.com/lamhda/COVID_SIRss/blob/main/data/results/Table_parameters.xlsx). A collection of plots in MATLAB fig format for individual countries
+can be found [here](https://github.com/lamhda/COVID_SIRss/blob/main/data/results/2x169%20separate%20figures.zip) and [the MATLAB code for generating them](https://github.com/lamhda/COVID_SIRss/blob/main/src/SIR_coeffs_to_2x169separate_graphs.m).
 The computations have been made based on [the datafile](https://github.com/lamhda/COVID_SIRss/blob/main/data/raw/owid-covid-data-10.05.2021.xlsx) obtained from [here](https://github.com/owid/covid-19-data/tree/master/public/data), accessed on 10.05.2021. 
 The current version of the file can be downloaded [here](https://covid.ourworldindata.org/data/owid-covid-data.xlsx).
 
